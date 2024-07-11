@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 
 const HireMe = () => {
@@ -9,9 +10,9 @@ const HireMe = () => {
             <h2>
               I'm <span>Available</span> for freelancing
             </h2>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+          
             <p className="mb-0">
-              <a href="#" className="btn btn-primary py-3 px-5">
+              <a  className="btn btn-primary py-3 px-5">
                 Hire me
               </a>
             </p>

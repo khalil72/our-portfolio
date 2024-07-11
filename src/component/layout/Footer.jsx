@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 
 const Footer = () => {
@@ -9,11 +10,11 @@ const Footer = () => {
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">About</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>I’m a passionate front-end developer with expertise in creating visually stunning and user-friendly interfaces. My focus is on delivering high-quality web experiences through modern technologies and best practices</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class=""><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class=""><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class=""><a href="#"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
@@ -33,11 +34,11 @@ const Footer = () => {
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Design</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Development</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Business Strategy</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Data Analysis</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Graphic Design</a></li>
+                <li><a ><span class="icon-long-arrow-right mr-2"></span>Web Design And Development</a></li>
+                <li><a><span class="icon-long-arrow-right mr-2"></span> Responsive Web Design</a></li>
+                <li><a ><span class="icon-long-arrow-right mr-2"></span>Front-End Framework Integrate</a></li>
+                <li><a><span class="icon-long-arrow-right mr-2"></span>API Integration</a></li>
+                <li><a ><span class="icon-long-arrow-right mr-2"></span>Maintenance and Support</a></li>
               </ul>
             </div>
           </div>
@@ -46,9 +47,9 @@ const Footer = () => {
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Pakistan ,Chakwal</span></li>
+	                <li><a ><span class="icon icon-phone"></span><span class="text">+923115691357</span></a></li>
+	                
 	              </ul>
 	            </div>
             </div>
@@ -58,7 +59,7 @@ const Footer = () => {
           <div class="col-md-12 text-center">
 
             <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | khalil ahmed
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Khalil Ahmed
 </p>
           </div>
         </div>

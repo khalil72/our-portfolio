@@ -1,0 +1,65 @@
+const SkillsSet = [
+    {
+      "name": "Html5",
+      "value": 95,
+      "color": "color-1"
+    },
+    {
+      "name": "Css3",
+      "value": 95,
+      "color": "color-2"
+    },
+    {
+      "name": "js/Jquery",
+      "value": 70,
+      "color": "color-3"
+    },
+    {
+      "name": "BootStrap5",
+      "value": 95,
+      "color": "color-4"
+    },
+    {
+      "name": "Mui",
+      "value": 80,
+      "color": "color-5"
+    },
+    {
+      "name": "Tailwind Css",
+      "value": 75,
+      "color": "color-6"
+    },
+    {
+      "name": "React js",
+      "value": 70,
+      "color": "color-7"
+    },
+    {
+      "name": "Next js",
+      "value": 50,
+      "color": "color-8"
+    },
+    {
+      "name": "Angular js",
+      "value": 25,
+      "color": "color-9"
+    },
+    {
+      "name": "Git hub",
+      "value": 80,
+      "color": "color-9"
+    },
+    {
+      "name": "Laravel",
+      "value": 25,
+      "color": "color-9"
+    },
+    {
+      "name": "WordPress",
+      "value": 40,
+      "color": "color-9"
+    },
+   
+    
+  ]
+  export default SkillsSet
