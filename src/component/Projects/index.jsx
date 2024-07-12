@@ -5,6 +5,7 @@ const Projects = () => {
     <section className="ftco-section ftco-project" id="projects-section">
       <div className="container">
         <div className="row justify-content-center pb-5">
+          
           <div className="col-md-12 heading-section text-center ">
             <h1 className="big big-2">Projects</h1>
             <h2 className="mb-4">Our Projects</h2>

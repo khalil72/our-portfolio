@@ -20,13 +20,13 @@ const SkillsSet = [
       "color": "color-4"
     },
     {
-      "name": "Mui",
+      "name": "Mui / Tailwind Css",
       "value": 80,
       "color": "color-5"
     },
     {
-      "name": "Tailwind Css",
-      "value": 75,
+      "name": "Typescript",
+      "value": 60,
       "color": "color-6"
     },
     {
@@ -46,7 +46,7 @@ const SkillsSet = [
     },
     {
       "name": "Git hub",
-      "value": 80,
+      "value": 60,
       "color": "color-9"
     },
     {
@@ -55,7 +55,7 @@ const SkillsSet = [
       "color": "color-9"
     },
     {
-      "name": "WordPress",
+      "name": "WordPress ",
       "value": 40,
       "color": "color-9"
     },

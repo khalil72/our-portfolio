@@ -89,6 +89,14 @@ hr {
   font-size: 15px;
   font-weight: 400;
 }
+.carouselImage{
+  background-image: url('Assets/images/profile1.png');
+  background-size:  cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height:100vh;
+ 
+}
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -469,6 +477,13 @@ pre {
   max-height: 340px;
   overflow-y: scroll; }
 
+
+  .image-postion{
+  background-size:contain !important;
+  background-repeat:no-repeat !important;
+  background-position:right center !important;
+  height: 100% !important;
+}
 .container {
   width: 100%;
   padding-right: 15px;
@@ -8353,6 +8368,11 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
       border-color: #ffbd39; }
     @media (max-width: 991.98px) {
+      .image-set{
+        position:absolute;
+        opacity: 0.2;
+        z-index: 16000;
+      }
       .ftco-navbar-light.scrolled .navbar-nav {
         background: none;
         border-radius: 0px;
@@ -8361,7 +8381,7 @@ h1, h2, h3, h4, h5,
         margin-left: 0 !important; } }
     .ftco-navbar-light.scrolled .navbar-toggler {
       border: none;
-      color: rgba(0, 0, 0, 0.5) !important;
+      /* color: rgba(0, 0, 0, 0.5) !important; */
       border-color: rgba(0, 0, 0, 0.5) !important;
       cursor: pointer;
       text-transform: uppercase;
