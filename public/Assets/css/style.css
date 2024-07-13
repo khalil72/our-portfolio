@@ -8978,10 +8978,14 @@ h1, h2, h3, h4, h5,
     padding-top: 10em !important; } }
 
 .project {
-  width: 100%;
+  width: 100% !important;
   height: 285px;
   margin-bottom: 30px;
   position: relative;
+  background-size: cover;
+  background-position: center bottom;
+ 
+  background-repeat: no-repeat;
   z-index: 0; }
   .project.img-2 {
     height: 600px; }
