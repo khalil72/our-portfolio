@@ -17,7 +17,7 @@ const ProjectsData = [
         name: 'Quran Noor',
         ref: 'https://qurannoor.vercel.app/',
         images: quran,
-        desc: 'This project is an Islamic-based application with the primary feature of enabling the recitation of the Holy Quran through both reading and audio. Developed using the React framework, it involves integrating a predefined template into React JS, fetching data via API calls, and managing state using Redux Toolkit. The project is currently in progress, being developed according to client requirements, and is almost complete. The code is available in a private GitHub repository.'
+        desc: 'This Islamic-based React application enables Quran recitation through reading and audio, integrating a predefined template with Redux Toolkit for state management and API calls for data fetching. The project, developed to client specifications, is nearly complete and hosted in a private GitHub repository.'
     },
     {
         id: 2,

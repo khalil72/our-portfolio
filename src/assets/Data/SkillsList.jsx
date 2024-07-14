@@ -39,11 +39,7 @@ const SkillsSet = [
       "value": 50,
       "color": "color-8"
     },
-    {
-      "name": "Angular js",
-      "value": 25,
-      "color": "color-9"
-    },
+   
     {
       "name": "Git hub",
       "value": 60,
@@ -51,12 +47,12 @@ const SkillsSet = [
     },
     {
       "name": "Laravel",
-      "value": 25,
+      "value": 30,
       "color": "color-9"
     },
     {
       "name": "WordPress ",
-      "value": 40,
+      "value": 50,
       "color": "color-9"
     },
    
