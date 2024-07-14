@@ -12,9 +12,10 @@ const Footer = () => {
               <h2 class="ftco-heading-2">About</h2>
               <p>I’m a passionate front-end developer with expertise in creating visually stunning and user-friendly interfaces. My focus is on delivering high-quality web experiences through modern technologies and best practices</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class=""><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class=""><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class=""><a href="#"><span class="icon-instagram"></span></a></li>
+              <li class=""><a href="https://www.linkedin.com/in/khalilahmed-frontend/"><span class="icon-linkedin"></span></a></li>
+
+                
+             
               </ul>
             </div>
           </div>
