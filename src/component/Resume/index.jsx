@@ -42,7 +42,8 @@ const Resume = () => {
                     <span className="date">12/2023-6/2024</span>
                     <h2>Development and Integration Experience</h2>
                     <span className="position">Zam Software Solutions</span>
-                    <p className="mt-4"> Developed the Intercloud9 SMS system using React.js, incorporating full design with Metronic integration and Redux Toolkit for state management. Created and integrated APIs using Laravel, and contributed to other projects such as Profit Coach.</p>
+                    <p>Developed the Intercloud9 SMS system using React.js, integrating Metronic and Redux Toolkit. Created and integrated APIs with Laravel. Contributed to projects like Profit Coach.</p>
+                    {/* <p className="mt-4"> Developed the Intercloud9 SMS system using React.js, incorporating full design with Metronic integration and Redux Toolkit for state management. Created and integrated APIs using Laravel, and contributed to other projects such as Profit Coach.</p> */}
                 </div>
             </div>
             
