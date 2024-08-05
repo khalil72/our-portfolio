@@ -29,17 +29,17 @@ const Resume = () => {
                     <p className="mt-4">Designed visually appealing and user-friendly interfaces for platforms such as Pin92, Property051, Bahria Housings, and LMS etc. Collaborated with team members and integrated with backend systems to retrieve and manage data.</p>
                 </div>
             </div>
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
             <div className="resume-wrap ">
                     <span className="date">08/2023-12/2023</span>
                     <h2>Proficient in Angular and UI Development</h2>
                     <span className="position">Capital Smart City</span>
                     <p className="mt-4"> Expert in executing API integrations to enhance CRUD operations and overall application functionality. Skilled in creating secure and intuitive interfaces with authentication, utilizing Bootstrap for design, and integrating Metronic themes for improved visual appeal.</p>
                 </div>
-            </div>
+            </div> */}
             <div className="col-md-6">
             <div className="resume-wrap ">
-                    <span className="date">01/2024-6/2024</span>
+                    <span className="date">12/2023-6/2024</span>
                     <h2>Development and Integration Experience</h2>
                     <span className="position">Zam Software Solutions</span>
                     <p className="mt-4"> Developed the Intercloud9 SMS system using React.js, incorporating full design with Metronic integration and Redux Toolkit for state management. Created and integrated APIs using Laravel, and contributed to other projects such as Profit Coach.</p>
