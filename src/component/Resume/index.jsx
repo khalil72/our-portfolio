@@ -69,7 +69,7 @@ const Resume = () => {
         
         <div className="row justify-content-center mt-5">
             <div className="col-md-6 text-center ">
-                <p><a href="/Assets/pdf/Khalilahmed_frontendDeveloper.pdf" className="btn btn-primary py-4 px-5">Download CV</a></p>
+                <p><a href="/Assets/pdf/Khalilahmed_frontendDeveloper.pdf" target="_blank" className="btn btn-primary py-4 px-5">Download CV</a></p>
             </div>
         </div>
     </div>

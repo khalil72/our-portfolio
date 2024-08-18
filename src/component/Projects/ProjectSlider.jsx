@@ -104,7 +104,8 @@ const ProjectSlider = ({ settings, Projects }) => {
                 ></div>
                 <p>{selectedProject?.desc || 'Modal body text goes here.'}</p>
                 {selectedProject?.ref ===  '/' ? '' : 
-                <a href={selectedProject?.ref } className='btn btn-primary'>visit now</a>
+                // eslint-disable-next-line react/jsx-no-target-blank
+                <a href={selectedProject?.ref } className='btn btn-primary' target="_blank">visit now</a>
                 }
                 
               </div>

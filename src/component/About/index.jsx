@@ -41,7 +41,7 @@ const About = () => {
               <div className="text">
                
                 <p>
-                  <a href="/Assets/pdf/Khalilahmed_frontendDeveloper.pdf" className="btn btn-primary py-3 px-3">
+                  <a href="/Assets/pdf/Khalilahmed_frontendDeveloper.pdf" target="_blank" className="btn btn-primary py-3 px-3">
                     Download CV
                   </a>
                 </p>
