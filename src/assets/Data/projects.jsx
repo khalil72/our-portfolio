@@ -10,6 +10,7 @@ import ecommerce from '../images/ecommerce.png';
 import intercloud9 from '../images/intercloud9.png';
 import property051 from '../images/property051.png';
 import pin92 from '../images/pin92.png';
+import event from '../images/event.png';
 
 const ProjectsData = [
     {
@@ -23,7 +24,7 @@ const ProjectsData = [
         id: 2,
         name: 'Event Landing Page',
         ref: 'https://event-landing-seven.vercel.app/',
-        images: quran,
+        images: event,
         desc: 'This project involves developing a Next.js landing page for an event using TypeScript. It focuses on creating a responsive layout with concise descriptions for each event section to ensure an engaging user experience.'
     },
     {
